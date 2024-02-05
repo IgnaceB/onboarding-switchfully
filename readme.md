@@ -3,7 +3,7 @@
 	- [x] [Introduction](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/introduction)
 	- [x] [Basic web pages](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/basic_web_pages)
 	- [x] [Links and images](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/links_and_images)
-	- [ ] [Hello, CSS](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/hello_css){:target="_blank"} 
+	- [ ] [Hello, CSS](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/hello_css)
 	- [ ] CSS Box Model
 	- [ ] CSS Selectors 
 	- [ ] Floats
