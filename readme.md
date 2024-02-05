@@ -1,8 +1,8 @@
 ## Onboarding switchfully ##
 - ### [internetingishard](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard) :hourglass: ###
 	- [x] [Introduction](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/introduction) :white_check_mark:
-	- [ ] [Basic web pages](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/basic_web_pages)
-	- [ ] Links and images
+	- [x] [Basic web pages](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/basic_web_pages)
+	- [ ] [Links and images](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/links_and_images)
 	- [ ] Hello, CSS 
 	- [ ] CSS Box Model
 	- [ ] CSS Selectors 
