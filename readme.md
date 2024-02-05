@@ -5,8 +5,8 @@
 	- [x] [Links and images](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/links_and_images)
 	- [x] [Hello, CSS](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/hello_css)
 	- [x] [CSS Box Model](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/css_box_model)
-	- [ ] [CSS Selectors](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/css_selectors)
-	- [ ] Floats
+	- [x] [CSS Selectors](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/css_selectors)
+	- [ ] [Floats](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/floats)
 	- [ ] Flexbox 
 	- [ ] ~~Advance positioning~~ 
 	- [ ] Responsive design
