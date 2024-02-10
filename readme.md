@@ -7,9 +7,9 @@
 	- [x] [CSS Box Model](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/css_box_model)
 	- [x] [CSS Selectors](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/css_selectors)
 	- [x] [Floats](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/floats)
-	- [ ] [Flexbox](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/flexbox) 
+	- [x] [Flexbox](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/flexbox) 
 	- [ ] ~~Advance positioning~~ 
-	- [ ] Responsive design
+	- [ ] [Responsive design](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/responsive_design) 
 	- [ ] ~~Responsive images~~
 	- [ ] Semantic HTML
 	- [ ] HTML forms
