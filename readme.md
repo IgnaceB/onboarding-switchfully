@@ -1,5 +1,7 @@
 ## Onboarding switchfully ##
-- ### [internetingishard](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard) :hourglass: ###
+- ### [internetingishard](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard) :white_check_mark: ###
+Friendly web development tutorials for complete beginners
+https://internetingishard.netlify.app/
 	- [x] [Introduction](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/introduction)
 	- [x] [Basic web pages](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/basic_web_pages)
 	- [x] [Links and images](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/links_and_images)
@@ -12,8 +14,11 @@
 	- [x] [Responsive design](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/responsive_design) 
 	- [ ] ~~Responsive images~~
 	- [x] [Semantic HTML](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/semantic_html) 
-	- [ ] [HTML forms](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/html_forms) 
+	- [x] [HTML forms](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/html_forms) 
 	- [ ] ~~Web Typography~~
-- ### [HTML & CSS project]() :x: ###
-- ### [Java introduction Course]() :x: ###
+- ### [HTML & CSS project]() :hourglass: ###
+work in progress
+- ### [Java introduction Course]() :hourglass: ###
+work in progress 
+https://www.sololearn.com/en/learn/courses/java-introduction
 - ### [SQL introduction Course]() :x: ###
