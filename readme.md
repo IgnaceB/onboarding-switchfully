@@ -19,7 +19,7 @@
 	- [ ] ~~Web Typography~~
 
 - ### [HTML & CSS project]() :hourglass: ###
-work in progress
+	##### work in progress
 - ### [Java introduction Course]() :hourglass: ###
 	##### work in progress 
 	https://www.sololearn.com/en/learn/courses/java-introduction
