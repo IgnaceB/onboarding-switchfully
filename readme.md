@@ -11,8 +11,8 @@
 	- [ ] ~~Advance positioning~~ 
 	- [x] [Responsive design](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/responsive_design) 
 	- [ ] ~~Responsive images~~
-	- [ ] [Semantic HTML](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/semantic_html) 
-	- [ ] HTML forms
+	- [x] [Semantic HTML](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/semantic_html) 
+	- [ ] [HTML forms](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/html_forms) 
 	- [ ] ~~Web Typography~~
 - ### [HTML & CSS project]() :x: ###
 - ### [Java introduction Course]() :x: ###
