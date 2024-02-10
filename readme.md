@@ -9,9 +9,9 @@
 	- [x] [Floats](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/floats)
 	- [x] [Flexbox](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/flexbox) 
 	- [ ] ~~Advance positioning~~ 
-	- [ ] [Responsive design](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/responsive_design) 
+	- [x] [Responsive design](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/responsive_design) 
 	- [ ] ~~Responsive images~~
-	- [ ] Semantic HTML
+	- [ ] [Semantic HTML](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/semantic_html) 
 	- [ ] HTML forms
 	- [ ] ~~Web Typography~~
 - ### [HTML & CSS project]() :x: ###
