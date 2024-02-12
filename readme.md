@@ -21,7 +21,6 @@
 - ### [HTML & CSS project]() :hourglass: ###
 	##### work in progress
 - ### [Java introduction Course]() :white_check_mark: ###
-	##### work in progress 
 	https://www.sololearn.com/en/learn/courses/java-introduction
 	![Alt sololearn certificate](./assets/Certificate_Java_Sololearn.jpg)
 - ### [SQL introduction Course]() :hourglass: ###
