@@ -18,10 +18,11 @@
 	- [x] [HTML forms](https://github.com/IgnaceB/onboarding-switchfully/tree/main/internetingishard/html_forms) 
 	- [ ] ~~Web Typography~~
 
-- ### [HTML & CSS project]() :hourglass: ###
-	##### work in progress
+- ### [HTML & CSS project]() :white_check_mark: ###
+	##### My small project, done in 2h30
+	##### https://ignaceb.github.io/
 - ### [Java introduction Course]() :white_check_mark: ###
 	##### https://www.sololearn.com/en/learn/courses/java-introduction
 	![Alt sololearn certificate](./assets/Certificate_Java_Sololearn.jpg)
-- ### [SQL introduction Course]() :hourglass: ###
-	##### work in progress
+- ### [SQL introduction Course]() :white_check_mark: ###
+	##### Finished the course on 14/02

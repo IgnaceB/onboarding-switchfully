@@ -1,0 +1,114 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+ul, ol {
+  list-style-type: none;
+  padding: 0;
+  margin: 0; 
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: white;
+  color: #333;
+  width:100vw;
+}
+header {
+  background-color: black;
+  width:100%;
+}
+nav {
+    display: flex;
+    width:100%;
+    height:7vh;
+}
+nav ul {
+    list-style: none;
+    width:100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+nav ul li a:hover {
+    color: #ff6b6b;
+}
+
+main{
+  width:100%;
+  padding:5vw;
+}
+
+main h1{
+  margin-bottom:1em;
+}
+
+.hobbies {
+ 
+    margin: 1em 0 1em 0;
+  width:100%;
+  display:flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.oneHobby  {
+  text-decoration: none;
+  width : 45%;
+  margin-bottom: 2em;
+  text-align: center;
+  background: white;
+  border : solid 1px black;
+  position: relative;
+  height:20vh;
+
+}
+.oneHobby h2{
+		position: absolute;
+	margin-top : 30%;
+	background : black;
+	width:100%;
+	color: white;
+	visibility: hidden;
+
+}
+.oneHobby:focus h2{
+
+	visibility:visible;
+}
+
+
+
+.oneHobby img {
+	margin:auto;
+  width : 100%;
+  height: 100%;
+}
+
+@media (min-width: 700px) { 
+
+  .oneHobby{
+    width:26%;
+    height: 20vw;
+  }
+
+.oneHobby:hover h2{
+
+	visibility:visible;
+}
+
+ }
+
+
